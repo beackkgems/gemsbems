@@ -1,0 +1,9 @@
+{
+    "FGEnable": false,
+    "FGLang": ["Russian"],
+    "FGTime": ["Yekaterinburg"],
+    "FGLink": 
+    [ 
+          { "Lang":"Russian", "Links": [""] }
+    ]
+ }
