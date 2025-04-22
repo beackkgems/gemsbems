@@ -1,9 +1,9 @@
 {
-    "FartuEnable": false,
-    "FartuLang": ["Russian"],
-    "FartuTimes": ["Yekaterinburg"],
+    "FartuEnable": true,
+    "FartuLang": ["Portuguese"],
+    "FartuTimes": ["Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
     "FartuLinks": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Portuguese", "Links": ["https://1wgxql.com/v3/fortune-tiger?p=p25b"]}
     ]
  }
