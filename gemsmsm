@@ -1,9 +1,9 @@
 {
-    "FGEnable": false,
-    "FGLang": ["Russian"],
-    "FGTime": ["Yekaterinburg"],
+    "FGEnable": true,
+    "FGLang": ["Portuguese"],
+    "FGTime": ["Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
     "FGLink": 
     [ 
-          { "Lang":"Russian", "Links": [""] }
+          { "Lang":"Portuguese", "Links": ["https://1wgxql.com/casino/list?open=register&p=vtnn"] }
     ]
  }
