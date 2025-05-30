@@ -1,0 +1,9 @@
+{
+    "PcoEnable": false,
+    "PcoLangs": ["Russian"],
+    "PcoTimes": ["Yekaterinburg"],
+    "PcoLinks": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
