@@ -1,0 +1,9 @@
+{
+    "SpaceEnable": false,
+    "SpaceLang": ["Russian"],
+    "SpaceTimes": ["Yekaterinburg"],
+    "SpaceLinks": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
