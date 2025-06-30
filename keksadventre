@@ -1,0 +1,9 @@
+{
+    "KeksEnable": false,
+    "KeksLang": ["Russian"],
+    "KeksTime": ["Yekaterinburg"],
+    "KeksLink": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
