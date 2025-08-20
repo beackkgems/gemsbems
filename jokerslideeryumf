@@ -1,0 +1,9 @@
+{
+    "JokTwonkEnable": false,
+    "JokTwonkLang": ["Spanish"],
+    "JokTwonkTimes": ["Buenos_Aires", "Argentina"],
+    "JokTwonkLinks": 
+    [ 
+          { "Lang":"Spanish", "Links": [""]}
+    ]
+ }
