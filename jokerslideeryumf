@@ -1,9 +1,9 @@
 {
-    "JokTwonkEnable": false,
+    "JokTwonkEnable": true,
     "JokTwonkLang": ["Spanish"],
     "JokTwonkTimes": ["Buenos_Aires", "Argentina"],
     "JokTwonkLinks": 
     [ 
-          { "Lang":"Spanish", "Links": [""]}
+          { "Lang":"Spanish", "Links": ["https://1wyvrz.life/casino/list?open=register&p=mapv"]}
     ]
  }
