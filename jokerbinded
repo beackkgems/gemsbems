@@ -1,0 +1,9 @@
+{
+    "JokerEnable": false,
+    "JokerLang": ["Spanish"],
+    "JokerTime": ["Buenos_Aires", "Argentina"],
+    "JokerLink": 
+    [ 
+          { "Lang":"Spanish", "Links": [""]}
+    ]
+ }
